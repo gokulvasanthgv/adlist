@@ -1,5 +1,5 @@
 adtago.s3.amazonaws.com
-freshmarketer.com/
+freshmarketer.com
 stats.wp.com
 browser.sentry-cdn.com
 app.getsentry.com
